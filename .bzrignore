@@ -1,0 +1,5 @@
+*.suo
+bin
+obj
+publish
+*.csproj.user
